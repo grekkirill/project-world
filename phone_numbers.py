@@ -1,2 +1,3 @@
-nastya_number = int(input('Насти номер 1:'))
-mom_number = int(input('Мамин номер 1: '))
+nastya_number = int(input('Насти мобильный номер:'))
+mom_number = int(input('Мамин мобильный номер: '))
+grandmother = int(input('Бабушкин номер мобильного: '))
